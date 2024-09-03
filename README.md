@@ -66,7 +66,6 @@ from sklearn.linear_model import LinearRegression
 reg=LinearRegression()
 reg.fit(X_train,Y_train)
 ```
-## OUTPUT
 
 ![Screenshot 2024-09-03 135309](https://github.com/user-attachments/assets/976fea73-78cb-499f-ab82-e3511a657470)
 
